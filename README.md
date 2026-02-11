@@ -5,6 +5,8 @@ This repository contains the machine learning analysis used my publication exami
 * Journal of Alzheimer's Disease
 * Year of Publication: 2025
 * [Link to Paper](https://journals.sagepub.com/doi/epub/10.1177/13872877251372144)
+* **Code for analysis can be found in:**
+  * /AD-Dementia-Research(BEandSVI).ipynb
 
 ## Research Questions  
 1. How well can built environment (BE) variables alone predict AD dementia prevalence?
@@ -81,3 +83,7 @@ Two tree-based ensemble models were implemented:
 * Midwest and West showed balanced influence of BE and SVI
 * Grocery store density and walkability were strong BE predictors
 * No-vehicle %, uninsured %, and single-parent households were strong SVI predictors
+
+## Contact
+Please contact Mackenzie Kramer on any questions regarding this paper or analysis.  
+Data may be made available upon request.
